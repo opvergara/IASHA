@@ -23,7 +23,11 @@ Aplicación multidimensional del IASHA en viviendas particulares sin subsidio es
 **[Ver Dashboard IASHA en vivo](https://opvergara.github.io/IASHA/)**
 
 **Autor:**  
-Omar Patricio Vergara Gonzalez – opvergara@uc.cl  
+Omar Patricio Vergara Gonzalez
+Investigador en Asbesto y Justicia Ambiental
+Creador del Indice de Amenanza Sanitaria Habitacional al asbesto (IASHA)
+Creador del Indice de Priorizacion al Asbesto (IPA)
+opvergara@uc.cl  
 Researcher in Territorial Governance & Housing Justice | Creator of IASHA Index & IPA | Geospatial Analysis | Evidence-based Public Policy |
 
 ---
